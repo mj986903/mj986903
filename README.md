@@ -1,4 +1,4 @@
-<!-- @format -->
+[logo](https://github.com/mj986903/mj986903/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohit Joshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
