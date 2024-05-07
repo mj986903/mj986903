@@ -1,5 +1,23 @@
-![logo](https://github.com/mj986903/mj986903/blob/main/Banner.png)
-
+ <img
+      align="left"
+      src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
+      width="30%"
+      style="display: inline"
+    /><img
+      align="right"
+      src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
+      width="30%"
+      style="display: inline"
+    />
+    <br />
+    <span align="center">
+      <h1 align="center">✩ Mohit Joshi ✩</h1>
+    </span>
+    <p align="center">
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50"
+      />
+    </p>
 <h1 align="center">Hi 👋, I'm Mohit Joshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
