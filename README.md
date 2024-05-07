@@ -18,9 +18,11 @@
         src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50"
       />
     </p>
-<h1 align="center">Hi 👋, I'm Mohit Joshi</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
+<br />
+<br />
+<br />
+<br />
+<br />
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
   <li>👀 I’m interested in backend development and I love to code.</li>
