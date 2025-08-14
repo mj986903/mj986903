@@ -25,20 +25,19 @@
 <br />
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
-  <li>👀 I’m interested in backend development and I love to code.</li>
+  <li>👀 Passionate about Full-Stack Development and AI/ML.</li>
   <li>
-    🌱 I’m currently learning Computer Science Engineering in a Government
-    Engineering College.
+    🌱 Computer Science Engineering Graduate from a Government Engineering College.
   </li>
-  <li>💞️ Programmer: A machine that turns coffee into code.</li>
+  <li>💞️ Programmer: A machine that turns **chai** into code.</li>
 </ul>
 
 <h2>🛠 Tech Stack</h2>
 <ul dir="auto">
-  <li>💻 &nbsp; C, Advance Java, Dart, Python(Basic).</li>
-  <li>🌐 &nbsp; HTML, CSS, Flutter.</li>
-  <li>🛢 &nbsp;&nbsp; MySQL.</li>
-  <li>⚙️ &nbsp;Spring-Boot, Hibernate, Junit.</li>
+  <li>💻 &nbsp; C, Java, Python, .NET, Dart.</li>
+  <li>🌐 &nbsp; HTML, CSS, Angular, React JS, Flutter.</li>
+  <li>🛢 &nbsp;&nbsp; MySQL, MsSQL, PostgreSQL.</li>
+  <li>⚙️ &nbsp;Spring-Boot, Flask, Hibernate, EF Core, Junit.</li>
 </ul>
 
 <h2>🔧 Github Stats</h2>
