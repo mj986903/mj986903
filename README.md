@@ -8,7 +8,7 @@ I'm **Mohit Joshi**, a **Software Engineer - AI** from India
 💻 **Tech Stack:** Java (Spring Boot), Python, Angular, React.js, PostgreSQL, Docker, Kubernetes  
 🌱 Currently exploring **AI, Computer Vision, Backend Architecture, and Scalable Systems**  
 📂 Check out my portfolio: [mohit-joshi.in](https://www.mohit-joshi.in/)  
-📫 Reach me at: **mj9986903@gmail.com**
+📫 Reach me at: **mj986903@gmail.com**
 
 ---
 
